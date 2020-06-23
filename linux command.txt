@@ -1,0 +1,11 @@
+Linux command:
+ls:list of current dir
+cd:change dir
+cd.. : one step back
+cd/ : is sy root py chala jata hai
+mkdir : make dir
+nano filename.txt: create a file 
+cat filename.txt:show the file data
+cp filename.txt:copy file
+mv filename.txt:move file
+rm filename.txt:remove file
